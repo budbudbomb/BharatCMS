@@ -1,0 +1,5 @@
+<Solution>
+  <Folder Name="/backend/">
+    <Project Path="backend/GlobalCMS.Api/GlobalCMS.Api.csproj" />
+  </Folder>
+</Solution>
